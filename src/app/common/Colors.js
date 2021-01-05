@@ -1,0 +1,17 @@
+export default {
+  AppColor: "#F4511E",
+  gray:'#3a3a3a',
+  orange:'#f4520d',
+  darkOrange:'#863512',
+  lightOrange:'rgba(237,118,73,1.0)',
+  headerTintColor: "white",
+  background: "white",
+  lightGrey: "#323232",
+  lightGreyBackground: "#FAFAFA",
+  yellow: "#FFEE56",
+  black: "#000000",
+  white: '#fff',
+  red: "#e64a19",
+  green : 'green',
+  backgroundProgress : "rgba(0,0,0,0.5)",
+}

@@ -1,0 +1,22 @@
+export const DOMAIN_API = 'https://staging.myhuntfix.com/';
+export const LOGIN_API = DOMAIN_API +'login';
+export const REGISTER_SUBSCRIBE_API = DOMAIN_API +'registersubscribe';
+export const SHOWS_API = DOMAIN_API +'shows?_format=json';
+export const GET_SERIES_SHOW_API = DOMAIN_API +'show/';
+export const GET_ASSET_API = DOMAIN_API +'asset/';
+export const GET_PLANS_API = DOMAIN_API +'plans?_format=json';
+
+export const CUSTOMER_SERVICE_API = DOMAIN_API +'page/customer-service?_format=json';
+export const TERM_OF_SERVICE_API = DOMAIN_API +'page/terms-of-use?_format=json';
+export const FAQ_API = DOMAIN_API +'page/faq?_format=json';
+export const FEEDBACK_API = DOMAIN_API +'feedback?_format=json';
+export const CHANGE_MAIL_API = DOMAIN_API +'profile/changeemail?_format=json';
+export const CHANGE_PASSWORD_API = DOMAIN_API +'profile/changepassword?_format=json';
+export const FORGOT_PASSWORD_API = DOMAIN_API +'forgot?_format=json';
+export const CHANGE_PLAN_API = DOMAIN_API +'profile/changeplan?_format=json';
+export const CREATE_USER_API = DOMAIN_API +'createuser?_format=json';
+export const GET_TAG_API = DOMAIN_API +'tag/';
+export const CHECK_COUPON_API = DOMAIN_API +'checkcoupon?_format=json';
+export const PROFILE_API = DOMAIN_API +'profile?_format=json';
+export const UPDATE_USER_API = DOMAIN_API +'profile/updateCreditCard?_format=json';
+export const CANCEL_SUBSCRIPTION_API = DOMAIN_API +'profile/cancelSubscription';
